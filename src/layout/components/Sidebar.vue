@@ -16,17 +16,17 @@
           <el-submenu index="/">
             <template #title>
               <i class="el-icon-location"></i>
-              <span>导航一</span>
+              <span>world</span>
             </template>
             <el-menu-item-group>
-              <el-menu-item index="/about">选项1</el-menu-item>
-              <el-menu-item index="/home">选项2</el-menu-item>
-              <el-menu-item index="/text">选项3</el-menu-item>
+              <el-menu-item index="/home">首页</el-menu-item>
+              <el-menu-item index="/test">文本</el-menu-item>
+              <el-menu-item index="/about">关于</el-menu-item>
             </el-menu-item-group>
-            <el-submenu index="/home">
+            <!-- <el-submenu index="/home">
               <template #title>选项4</template>
               <el-menu-item index="/home">选项1</el-menu-item>
-            </el-submenu>
+            </el-submenu> -->
           </el-submenu>
           <!-- <el-menu-item index="2">
             <i class="el-icon-menu"></i>
