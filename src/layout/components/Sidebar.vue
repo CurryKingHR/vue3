@@ -22,6 +22,7 @@
               <el-menu-item index="/home">首页</el-menu-item>
               <el-menu-item index="/test">文本</el-menu-item>
               <el-menu-item index="/about">关于</el-menu-item>
+              <el-menu-item index="/want">writing</el-menu-item>
             </el-menu-item-group>
             <!-- <el-submenu index="/home">
               <template #title>选项4</template>
